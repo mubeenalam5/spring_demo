@@ -8,7 +8,7 @@ public class FunRestController {
     @GetMapping("/")
     public String getHello() {
 //        return "Hello World! This is my first java spring boot app and a hello world request . . .";
-        return "Hello World!";
+        return "Hello World! Changed";
 
     }
 }
